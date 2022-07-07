@@ -1,0 +1,150 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    height: 20px;
+    text-align: center;
+}
+
+.description {
+    width: 50%;
+    padding-left: 25%;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.align {
+    background-color: blueviolet;
+    color: azure;
+    font-weight: 20px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 44%;
+    padding: 10px 40px;
+}
+
+.donate {
+    background-color: blueviolet;
+    color: azure;
+    font-weight: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 385px;
+    padding: 10px 40px;
+}
+
+.monthly-plans {
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.margin {
+    margin-bottom: 8%;
+}
+
+.save-children {
+    background-image: url(img/carousel-1.jpg);
+    border-radius: 10px;
+    padding: 190px;
+    margin: 0;
+}
+
+.donate-now {
+    text-align: center;
+    background-color: azure;
+    border: 3px solid black;
+    border-radius: 7px;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+.education {
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    text-align: justify;
+}
+
+.flex {
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: skyblue;
+    margin-right: 20px;
+    margin-left: 7%;
+    padding: 25px 40px;
+    border: 3px solid black;
+    border-radius: 7px;
+}
+
+.benefits {
+    display: flex;
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.benefits div {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 15px;
+}
+
+#x1 {
+    border: 3px solid blue;
+    background-color: rgba(0, 0, 255, 0.37);
+    border-radius: 3%;
+    box-shadow: 10px 10px 40px grey;
+}
+
+#x2 {
+    border: 3px solid blueviolet;
+    background-color: rgba(137, 43, 226, 0.288);
+    border-radius: 3%;
+    box-shadow: 10px 10px 40px grey;
+}
+
+#x3 {
+    border: 3px solid violet;
+    background-color: rgba(238, 130, 238, 0.39);
+    border-radius: 3%;
+    box-shadow: 10px 10px 40px grey;
+}
+
+.container {
+    display: flex;
+    margin-bottom: 150px;
+    margin-left: 155px;
+}
+
+.para {
+    text-align: justify;
+    width: 71%;
+    border-radius: 6px;
+}
+
+.half-width {
+    width: 75%;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: antiquewhite;
+    border-radius: 5px;
+    background-color: blueviolet;
+    padding: 10px 40px;
+}
+
+footer p {
+    text-align: center;
+}
